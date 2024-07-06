@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marriage Invitation</title>
+</head>
+<body>
+    <h1>Marriage Invitation</h1>
+    <p>We are excited to invite you to our wedding!</p>
+    <p><strong>Date:</strong> 14th November 2024</p>
+    <p><strong>Location:</strong> <a href="https://maps.google.com/?q=your+location" target="_blank">Google Maps Location</a></p>
+    <p><strong>Live Streaming Link:</strong> <a href="https://www.youtube.com/your_live_streaming_link" target="_blank">YouTube Live Stream</a></p>
+    <p><strong>Contact Number:</strong> 7008772624</p>
+</body>
+</html>
